@@ -1,8 +1,7 @@
 import "./App.css";
-import Paper from "@mui/material/Paper";
 import Grid from "@mui/material/Grid";
 import ContactForm from "./components/ContactForm";
-import ContactList from "./components/ContactLIst";
+import ContactList from "./components/ContactList";
 import ContactSearch from "./components/ContactSearch";
 
 function App() {
